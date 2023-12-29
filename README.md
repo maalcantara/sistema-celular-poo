@@ -13,7 +13,7 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ![Diagrama classes](images/diagrama.png)
 
-## Regras e validações
+## Regras e validações 📵
 
 1. A classe **Smartphone** deve ser abstrata, não permitindo instanciar e servindo apenas como modelo.
 2. A classe **Nokia** e **Iphone** devem ser classes filhas de Smartphone.
