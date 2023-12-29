@@ -1,6 +1,6 @@
-# Sistema de Cadastro de smartphones com POO em C# 📱
+# Sistema de Cadastro de smartphones em C# 📱
 
-Projeto em C# que implementa um Sistema de cadastro de Smartphones seguindo os principios de programação orientada a objetos.
+Projeto em C# que implementa um Sistema de cadastro de Smartphones seguindo os principios de programação orientada a objetos (POO).
 
 ## Contexto ☎️
 
